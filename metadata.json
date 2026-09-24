@@ -1,0 +1,8 @@
+{
+  "name": "Remix PROJEK UTAMA Tes Sumatif ",
+  "description": "Aplikasi Tes Sumatif Bahasa Inggris Materi Healthy Vegetables Kelas V SD Negeri 3 Loloan Timur dengan 4 tahap tes, 30 butir soal (15 PG, 5 PGK, 5 PGK Kategori, 5 Isian Singkat), sinkronisasi Google Spreadsheet, unduh PDF, serta panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
